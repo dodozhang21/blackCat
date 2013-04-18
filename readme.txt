@@ -13,7 +13,7 @@ visit  http://pure-essence.net/2013/04/06/child-theme-for-twenty-eleven-black-ca
  Licenses:
 --------------------------------------------------------------------------------
 Black Cat is a child theme of Twenty Eleven
-Twenty Eleven is is licensed under the GPL.
+Twenty Eleven is licensed under the GPL.
 
 == Bundled Resources: Images ==
 
